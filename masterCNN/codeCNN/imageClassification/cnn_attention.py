@@ -8,7 +8,7 @@ import os
 from matplotlib import pyplot as plt
 import time
 
-
+# hello first 。。。
 '''
 Total params: 1,736,846
 Trainable params: 1,732,078
